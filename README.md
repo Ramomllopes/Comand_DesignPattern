@@ -1,1 +1,1 @@
-Command - DesignPattern
+Comand - DesignPattern
